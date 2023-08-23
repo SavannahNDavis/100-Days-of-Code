@@ -6,7 +6,7 @@
 
 **Thoughts**: Replit was a refresher on the print fucntion. Ready to build something! 
 
-**Link(s) to work**: https://replit.com/@SavannahDavis3/day-1100-days#main.py
+**Link(s) to work**: [Replit](https://replit.com/@SavannahDavis3/day-1100-days#main.py) & [GitHub-Day-1](https://github.com/SavannahNDavis/100-Days-of-Code/blob/main/Code-Days/Day-1.py)
 
 
 ### Day 1: August 24, 2023 - Thursday
