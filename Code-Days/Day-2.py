@@ -40,3 +40,18 @@ print()
 print("That's cool, I just wanted to know that")
 print(maidenName)
 print("was your Mum's maiden name. Not because the bank requested it or anything, honest.")
+
+# Day 2 Challenge 
+print("Let's get to know you!")
+print()
+my_name = input("What's your name? ")
+favorite_food = input("What's your favorite food? ")
+favorite_music = input("What's your favorite genre of music? ")
+print()
+print("This next one's tricky & should start with a C. ")
+print()
+favorite_pet = input("Whose your favorite pet? ")
+print()
+print("So.. you're " + my_name + ", and you're probably hungry for " + favorite_food + "." + " You like to get grovvy to " + favorite_music + " along with " + favorite_pet +".")
+print("You're pretty cool!")
+
