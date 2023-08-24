@@ -1,0 +1,42 @@
+# practice variables & input
+your_name = input("What's your name?:")
+your_age = input("How old are you?:")
+print("Hmm, " + your_age + " is a little old.. ehh, " + your_name + " ?")
+
+# find & fix the code erros
+
+# Original code below:
+# print("Definitely not a Phishing Scam")
+# print()
+# input("Your Name")
+# print("Thanks for logging in")
+# print(myName)
+# cardNumber = input("What is your credit card number?")
+# print("Thanks, I definitely wont put")
+# print("cardNumber")
+# print("into Amazon and order anything weird")
+# print()
+# print("Promise")
+# maidenName input("What is your Mother's maiden name? ")
+# print()
+# print("That's cool, I just wanted to know that")
+# print(maidenName)
+# print("was your Mum's maiden name. Not because the bank requested it or anything, honest.") 
+
+# Fixed Code
+print("Definitely not a Phishing Scam")
+print()
+myName = input ("What is your name?: ")
+print("Thanks for logging in")
+print(myName)
+cardNumber = input("What is your credit card number? ")
+print("Thanks, I definitely wont put")
+print(cardNumber)
+print("into Amazon and order anything weird.")
+print()
+print("Promise.")
+maidenName = input("What is your Mother's maiden name? ")
+print()
+print("That's cool, I just wanted to know that")
+print(maidenName)
+print("was your Mum's maiden name. Not because the bank requested it or anything, honest.")
