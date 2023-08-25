@@ -27,3 +27,14 @@ rhyme = input("Give me a verb that rhymes with your person's name: ")
 print()
 print("There was a person called", person)
 print("Who did something cool like", thing, "at the wonderful", place, "where you'll find me", rhyme)
+
+
+#  Day 3 Challenge
+type_of_food = input( "Name a food:")
+type_plant = input("Name a plant:")
+method_cooking = input("Name a cooking method:")
+burned_food = input("What's a word to describe burnt food?:")
+item_house = input("Name a household item:")
+print()
+print("MENU")
+print(method_cooking, type_of_food, "with", burned_food, type_plant, "on a bed of", item_house,".")
