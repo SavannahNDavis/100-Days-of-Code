@@ -13,3 +13,19 @@ if my_name == "Madisen":
   print("What's for dinner, woman!")
 else: 
   print("ERROR - ERROR")
+
+#Fix my code - Code with ERRORS
+
+drink = input("Do you prefer coffee or tea?)
+if drink = "coffee"
+  print("Tea is better.")
+    else:
+  print("Excellent choice.")
+
+#Fixed Code
+
+drink = input("Do you prefer coffee or tea?")
+if drink == "coffee":
+  print("Tea is better.")
+else:
+  print("Excellent choice.")
