@@ -4,11 +4,11 @@ my_name = input("Enter your name: ")
 if my_name == "Savannah":  # always have your double == & the colon! 
   print("Hello, my Savannah.")
   print("Your computer has missed you. Glad to see you back.")
-if my_name == "Layla":
+elif my_name == "Layla":
   print("Hello, Layla.")
   print("I hope you're not up to anything suspicous..")
   print("You are being monitored.")
-if my_name == "Madisen":
+elif my_name == "Madisen":
   print("Oh.. it's you..")
   print("What's for dinner, woman!")
 else:     #else should NOT be indented, but on the same line as if.
