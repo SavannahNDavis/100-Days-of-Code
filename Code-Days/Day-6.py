@@ -39,3 +39,19 @@ elif season == "winter":
   print("Stay warm by the fire and watch the snow fall.")
 else: 
   print("I don't know that season. Please try again.")
+
+# Day 6 Challenge
+
+print("Hello! Pleased to see you! Please login in below.")
+print()
+print()
+username = input("Enter username: ")
+password = input("Enter password: ")
+if username == "Madisen" and password == "alwaysmad":
+  print("Hello Bookie. It's nice to see you again.. or is it?")
+elif username == "Savannah" and password == "savvysav":
+  print("Hello Savvy. You think you're savvy? hahaha laughable..")
+elif username == "Layla" and password == "iliketrouble":
+  print("Hello troublemaker. We've missed you here. It's been rather qiuet lately.")
+else:
+  print("ERROR-ERROR")
