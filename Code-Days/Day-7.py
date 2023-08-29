@@ -58,4 +58,30 @@ elif order == "pizza":
   else:
     print("Your pizza will not have pepperoni.")
 
-# Day 7 Challenge
+# Day 7 Challenge - Fake Fan Challenge BTS Edition
+
+print("BTS FAN QUIZ")
+print()
+bts_know = input("✨ Hello! Do you know BTS? ")
+if bts_know == "yes":
+  print("Oh! Cool! Nice to meet you.")
+  bts_fan = input("What is the fanbase name? ")
+  if bts_fan == "ARMY":
+    print("Wow, you might be a real fan!")
+    bts_member = input("Who are the members? ")
+    if bts_member == "RM, Jin, Suga, J-Hope, Jimin, V, JK":
+      print("Well done!")
+      bts_fav = input("Who is your favorite member? ")
+      if bts_fav == "Suga":
+        print("You're on the right track there.")
+        suga_song = input("What's your favorite song of his? ")
+        if suga_song == "So Far Away":
+          print("We are a match made in heaven. Welcome in.")
+      else:
+        print("The're all pretty great honestly.")
+  elif bts_fan == "AHMI":
+    print("Ahh a true fan.")
+  else:
+    print("Yikes.. you call yourself a fan?")
+else:
+  print("Oh.. awkward.. Well it was nice chatting with you.")
